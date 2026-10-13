@@ -157,7 +157,7 @@ This project is currently provided without an explicit license. Add a `LICENSE` 
 
 **YOUR NAME**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: https://github.com/KARTHIKREDDY04
 
 ---
 
